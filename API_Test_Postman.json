@@ -1,0 +1,155 @@
+{
+	"info": {
+		"_postman_id": "80a4d546-2725-4837-81df-bf7d797ea92a",
+		"name": "API Testing_AnnaR",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "1_GET Request",
+			"request": {
+				"auth": {
+					"type": "digest",
+					"digest": [
+						{
+							"key": "password",
+							"value": "password",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "postman",
+							"type": "string"
+						},
+						{
+							"key": "algorithm",
+							"value": "MD5",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "api.openweathermap.org/data/2.5/weather?appid=c900c77fef3920d7d85ce87d70062047&q=Monaco&units=metric&mode=xml&cnt=3 hours&lang=french",
+					"host": [
+						"api",
+						"openweathermap",
+						"org"
+					],
+					"path": [
+						"data",
+						"2.5",
+						"weather"
+					],
+					"query": [
+						{
+							"key": "appid",
+							"value": "c900c77fef3920d7d85ce87d70062047"
+						},
+						{
+							"key": "q",
+							"value": "Monaco"
+						},
+						{
+							"key": "units",
+							"value": "metric"
+						},
+						{
+							"key": "mode",
+							"value": "xml"
+						},
+						{
+							"key": "cnt",
+							"value": "3 hours"
+						},
+						{
+							"key": "lang",
+							"value": "french"
+						}
+					]
+				},
+				"description": "Creating GET request using next parameters:\r\n\r\nby name, metric units - Current Weather Data and 5 day / 3 Hour Forecast\r\n"
+			},
+			"response": []
+		},
+		{
+			"name": "2_GET Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "api.openweathermap.org/data/2.5/onecall/timemachine?appid=c900c77fef3920d7d85ce87d70062047&lat=45.464664&lon=9.188540&dt=1614855600&units=imperial&lang=italian",
+					"host": [
+						"api",
+						"openweathermap",
+						"org"
+					],
+					"path": [
+						"data",
+						"2.5",
+						"onecall",
+						"timemachine"
+					],
+					"query": [
+						{
+							"key": "appid",
+							"value": "c900c77fef3920d7d85ce87d70062047"
+						},
+						{
+							"key": "lat",
+							"value": "45.464664"
+						},
+						{
+							"key": "lon",
+							"value": "9.188540"
+						},
+						{
+							"key": "dt",
+							"value": "1614855600"
+						},
+						{
+							"key": "units",
+							"value": "imperial"
+						},
+						{
+							"key": "lang",
+							"value": "italian"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "digest",
+		"digest": [
+			{
+				"key": "algorithm",
+				"value": "MD5",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}
