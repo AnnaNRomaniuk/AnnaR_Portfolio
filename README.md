@@ -45,7 +45,7 @@ Tools: Chrome DevTools, HTML/CSS, Jira, TestRail, Postman, Selenium, Google Docs
 - [Test Cases - Web - TestLms] (https://github.com/AnnaNRomaniuk/AnnaR_Portfolio/blob/main/TestCases_Web_TestLms.docx)
 - [Bug Reports - Web - TestLms] (https://github.com/AnnaNRomaniuk/AnnaR_Portfolio/blob/main/Bugs_Web_TestLms.docx)
 - [Bug Reports - Web - Fitness] (https://github.com/AnnaNRomaniuk/AnnaR_Portfolio/blob/main/Bugs_Web_FitnessLife.docx)
-- [Traceability Matrix] 
+- [Traceability Matrix] (https://github.com/AnnaNRomaniuk/AnnaR_Portfolio/blob/main/Traceability%20Matrix.docx)
 - [SQL Testing] (https://github.com/AnnaNRomaniuk/AnnaR_Portfolio/blob/main/SQL%20Testing.docx)
 - [API Testing] (https://github.com/AnnaNRomaniuk/AnnaR_Portfolio/blob/main/API_Test_Postman.json)
 
