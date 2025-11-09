@@ -36,15 +36,15 @@ Tools: Chrome DevTools, HTML/CSS, Jira, TestRail, Postman, Selenium, Google Docs
 
 
 ## 📄 Sample Documents
-- [Test Plan - Web -TestAuto]()
-- [Test Plan - Web - TestLms] (
-- [Test Plan - Desktop - UI]
-- [Test Plan -Desktop - UI]
-- [Test Cases - Web - TestLms]
-- [Bug Reports - Web - TestLms]
-- [Bug Reports - Web - TestLms]
-- [SQL Testing]
-- [API Testing]
+- [Test Plan - Web - TestAuto] (https://github.com/AnnaNRomaniuk/AnnaR_Portfolio/blob/main/TestPlan_Web_TestAuto.docx)
+- [Test Plan - Web - TestLms] (https://github.com/AnnaNRomaniuk/AnnaR_Portfolio/blob/main/TestPlan_Web_TestLms.docx)
+- [Test Plan - Desktop - UI] (https://github.com/AnnaNRomaniuk/AnnaR_Portfolio/blob/main/TestPlan_Desktop_UI.docx)
+- [Test Plan -Desktop - Functional] (https://github.com/AnnaNRomaniuk/AnnaR_Portfolio/blob/main/TestPlan_Desktop_Functional.docx)
+- [Test Cases - Web - TestLms] (https://github.com/AnnaNRomaniuk/AnnaR_Portfolio/blob/main/TestCases_Web_TestLms.docx)
+- [Bug Reports - Web - TestLms] (https://github.com/AnnaNRomaniuk/AnnaR_Portfolio/blob/main/Bugs_Web_TestLms.docx)
+- [Bug Reports - Web - Fitness] (https://github.com/AnnaNRomaniuk/AnnaR_Portfolio/blob/main/Bugs_Web_FitnessLife.docx)
+- [SQL Testing] (https://github.com/AnnaNRomaniuk/AnnaR_Portfolio/blob/main/SQL%20Testing.docx)
+- [API Testing] (https://github.com/AnnaNRomaniuk/AnnaR_Portfolio/blob/main/API_Test_Postman.json)
 
 ## 📬 Contact
 📞 +380935211103 
