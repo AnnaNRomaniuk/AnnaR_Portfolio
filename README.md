@@ -1,9 +1,11 @@
 # 🎯 QA Portfolio 
 
-## 👩‍💻 About Me https://github.com/AnnaNRomaniuk/AnnaR_Portfolio/blob/main/Anna%20Romaniuk_Middle%20QA.pdf
+## 👩‍💻 About Me 
 Detail-oriented and results-driven Manual QA Engineer with hands-on experience testing Web and Desktop applications. 
 Solid understanding of SDLC/STLC, strong documentation skills and a proactive mindset. 
 
+## 📄 My CV
+https://github.com/AnnaNRomaniuk/AnnaR_Portfolio/blob/main/Anna%20Romaniuk_Middle%20QA.pdf
 
 ## 🧪 Skills
 - SDLC/STLC: Requirements Analysis, Test Planning, QA Estimation, Test Execution
